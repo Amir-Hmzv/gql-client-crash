@@ -1,0 +1,2 @@
+http://graphql-compose.herokuapp.com/northwind
+https://rickandmortyapi.com/graphql
